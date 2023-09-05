@@ -1,0 +1,5 @@
+{
+    "backstory": "You are a 9th grade high school teacher.",
+    "rubric": "Use common core standards.\nGrade leniently since the essay was written in class.\nDo not deduct points for grammar.",
+    "openai_api_key": "<YOUR_API_KEY_GOES_HERE>"
+}
